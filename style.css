@@ -1,0 +1,29 @@
+body {
+  background-color: lightyellow;
+  font-size: 18px;
+}
+
+#header {
+  color: darkblue;
+  text-align: center;
+}
+
+.title {
+  color: green;
+}
+
+p {
+  color: black;
+}
+
+.highlight {
+  color: red;
+}
+
+a:hover {
+  color: orange;
+}
+
+img {
+  border: 3px solid black;
+}
