@@ -1,5 +1,5 @@
 body {
-  background-color: lightyellow;
+  background-color: brown;
   font-size: 18px;
 }
 
@@ -26,4 +26,12 @@ a:hover {
 
 img {
   border: 3px solid black;
+}
+
+.card {
+    background-color: lightyellow;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+    box-shadow: 0 0 10px lightgray;
 }
